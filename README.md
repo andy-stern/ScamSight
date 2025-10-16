@@ -20,7 +20,7 @@ This will install all the packages needed to run ScamSight:
 3. Next, on this repository (https://github.com/andy-stern/ScamSight), click the green "Code" button. Then, click "Download ZIP." In File Explorer (Windows key, search "File Explorer"), right click the .zip file you downloaded and click "Extract all..."
 From there, a new window in File Explorer will appear. To run ScamSight, find the image that looks like this:
 <p align="center">
-  <img width="50" height="50" src="https://github.com/user-attachments/assets/cf2425a9-43e6-40f2-9511-3b47d12e74e4" />
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/921df132-1d1d-4f3d-aa11-5e2a9104f170" />
 </p>
 
 To the right of it, press the long area. If you do it correctly, a **path** should appear, or where on your computer you are located. From there, type "cmd" and wait for a window to open.
