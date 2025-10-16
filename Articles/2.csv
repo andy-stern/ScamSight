@@ -1,0 +1,24 @@
+text,style
+"What is the Deal With Biometrics and Their Security?
+
+",header
+"Introduction
+",bold
+"	In a world with evolving technology, online security has become complicated. Typical password methods such as passwords and PINs may be outpaced by upcoming things, becoming obsolete. Passwords and PINs are usually short, allowing users to easily remember them, but it leaves vulnerabilities to reuse passwords and to have commonly-guessed passwords. This is what biometric security tries to solve, which uses unique traits on your body as its own password. On iPhones, facial recognition lets you unlock your phone. On fingerprint scanners, it uses unique fingerprint patterns to authenticate something. In other words, your body is your password.
+
+",normal
+"What Biometric Security Is
+",bold
+"	At its core, biometric security relies on the idea that every person has certain physical traits, like fingerprints, that are unique to them, and only them. Ears, eyes, voices, fingerprints, and our faces are all unique enough to create a one-of-a-kind password. Furthermore, the ways passwords are made from biometrics do not error much, which are unlike human-typed passwords. In other words, biometric security is a perfect replacement for human-typed passwords, or are they?
+
+",normal
+"The Downsides to Biometrics
+",bold
+"	No technology has no vulnerabilities, and the same is true for biometric security. When a normal password is stolen, it can be changed to another one, but when a fingerprint or face scan is stolen, it’s permanent. There’s no way to change these traits on your body, and cybercriminals have already developed AI deepfakes to mimic faces and other features. Even worse, however, is the risk database leaks pose. If the biometric information for millions of people is stolen, it could permanently risk millions of identities.
+
+",normal
+"Conclusion
+",bold
+"	Despite the risks, biometric security is here to stay. They are very useful, but the risks come from how biometrics are stored. Encryption, good and secure hardware, and two-factor authentication reduce the risks by a lot, but regardless, they aren’t perfect. In the end, biometrics are easier to use than passwords, but it requires a lot of trust in return, which begs the question: as we hand more of ourselves to computers, are we creating a safer future, or a future we can’t control?
+
+",normal
