@@ -15,7 +15,7 @@ This will install all the packages needed to run ScamSight:
 - Certifi and requests handle HTTPs requests with added security from certifi, which verifies websites are who it says they are.
 - Pillow handles images.
 - Pyaes and rsa encrypt data for more sensitive information over the internet.
-- All winrt packages are for taking text out of inputted images (see ocr.py).
+- All winrt packages are for taking text out of inputted images (see [ocr.py](https://github.com/andy-stern/ScamSight/blob/main/Scripts/ocr.py)).
 
 3. Next, on this repository (https://github.com/andy-stern/ScamSight), click the green "Code" button. Then, click "Download ZIP." In File Explorer (Windows key, search "File Explorer"), right click the .zip file you downloaded and click "Extract all..."
 From there, a new window in File Explorer will appear. To run ScamSight, find the image that looks like this:
