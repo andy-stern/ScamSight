@@ -70,8 +70,8 @@ class RegisterPage(ttk.Frame):
         scrollbar.config(command=text.yview)
 
         content = [
-            ("Effective Date:\n", "bold"),
-            ("Last Updated:\n\n", "bold"),
+            ("Effective Date: 10/17/2025\n", "bold"),
+            ("Last Updated: 10/17/2025\n\n", "bold"),
             ("Accounts\n", "header"),
             ("• You are responsible for maintaining the confidentiality of your login credentials; ScamSight does not store any credentials in an accessible or decryptable form.\n", "normal"),
             ("• You are responsible for all activity on your account.\n", "normal"),
@@ -138,8 +138,8 @@ class RegisterPage(ttk.Frame):
         text.tag_configure("normal", font=("Helvetica", 12))
 
         content = [
-            ("Effective Date:\n", "bold"),
-            ("Last Updated:\n\n", "bold"),
+            ("Effective Date: 10/17/2025\n", "bold"),
+            ("Last Updated: 10/17/2025\n\n", "bold"),
             ("Introduction\n", "header"),
             ("ScamSight (“we”, “our”, “the app”) values your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights as a user of our Windows application.\n\n", "normal"),
             ("Information We Collect\n", "header"),
@@ -285,4 +285,5 @@ class RegisterPage(ttk.Frame):
     def handletextentryclick(self, event):
         entry = event.widget
         if not entry.select_present():
+
             entry.focus()
