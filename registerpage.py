@@ -145,11 +145,11 @@ class RegisterPage(ttk.Frame):
             ("Information We Collect\n", "header"),
             ("• We require an email address to create an account. Emails are hashed and salted with up-to-date measures, making them inaccessible to server administrators.\n", "normal"),
             ("• Your login credentials and tokens are stored securely to allow easy account access.\n", "normal"),
-            ("• ScamSight uses OCR (Optical Character Recognition) on screenshots the user provides and sends processed data to TogetherGPT to deliver core app functionality. This data is only used to provide the service and is not stored beyond the scope of the API request.\n", "normal"),
+            ("• ScamSight uses OCR (Optical Character Recognition) on screenshots the user provides and sends processed data to OpenRoute to deliver core app functionality. This data is only used to provide the service and is not stored beyond the scope of the API request.\n", "normal"),
             ("• No other personal or sensitive data is collected. We do not track location, device info, IP addresses, or any other analytics.\n\n", "normal"),
             ("How We Use Your Data\n", "header"),
             ("• Verifying your login credentials securely\n", "normal"),
-            ("• Using extracted text via OCR (Optical Character Recognition), TogetherGPT is used to generate responses.\n\n", "normal"),
+            ("• Using extracted text via OCR (Optical Character Recognition), OpenRoute is used to generate responses.\n\n", "normal"),
             ("Data Storage and Security\n", "header"),
             ("• Emails are hashed with modern, secure algorithms with salt.\n", "normal"),
             ("• User logins are permanently stored in a hashed form.\n", "normal"),
@@ -163,7 +163,7 @@ class RegisterPage(ttk.Frame):
             ("• ScamSight is designed as a Windows application for general users. We comply with applicable U.S. privacy laws, including CCPA for California residents.\n", "normal"),
             ("• We do not knowingly collect data from users under 13 years of age. All users must be of age according to local law to use this app.\n\n", "normal"),
             ("Third-Party Services\n", "header"),
-            ("• ScamSight uses TogetherGPT to process OCR (Optical Character Recognition) data. Only necessary image data is sent to this service to provide this app’s core functionality.\n", "normal"),
+            ("• ScamSight uses OpenRoute to process OCR (Optical Character Recognition) data. Only necessary image data is sent to this service to provide this app’s core functionality.\n", "normal"),
             ("• We do not share user emails, login credentials, or other personal information with third parties.\n\n", "normal"),
             ("Contact Us\n", "header"),
             ("• For questions or concerns about privacy, please contact us through the in-app support form.\n", "normal"),
@@ -287,3 +287,4 @@ class RegisterPage(ttk.Frame):
         if not entry.select_present():
 
             entry.focus()
+
