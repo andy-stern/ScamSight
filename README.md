@@ -1,6 +1,7 @@
 # ScamSight
 
 **Welcome to ScamSight**
+
 This will guide you on how to run the app from this GitHub. There will be two ways: running from Python and compiling the code into an .exe file. To download the .exe directly, download it under "Releases" or from the website (https://scamsight.app).
 
 ## Running with Python
