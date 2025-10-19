@@ -4,22 +4,22 @@
 ","header"
 "Introduction
 ","bold"
-"	In the modern age, computers can be fast, really fast. So fast, in fact, that passwords of normal lengths have become obsolete in terms of security, but wait, let�s backtrack, what makes a password�s level of security?
+"	In the modern age, computers can be fast, really fast. So fast, in fact, that passwords of normal lengths have become obsolete in terms of security, but wait, let's backtrack, what makes a password's level of security?
 
 ","normal"
 "Combinations
 ","bold"
-"	First, you need to understand the possible number of combinations. If someone makes a password that is 8 characters long, but they only use letters, that is about 110 billion possible combinations. Wow! That�s a really large number.
+"	First, you need to understand the possible number of combinations. If someone makes a password that is 8 characters long, but they only use letters, that is about 110 billion possible combinations. Wow! That's a really large number.
 
 ","normal"
 "Password Storage
 ","bold"
-"	Second, the way passwords are stored is a huge factor in their security. If passwords are stored on the server in plaintext, which is no change from what the user inputs, that is very insecure. However, that�s why hashing exists. Hashing functions take an input of any length (�a� or 5 billion words) and it will always produce an output of the same length, making it impossible to reverse the output. Furthermore, modern hashing methods are slow to do, which can give a buffer against attackers.
+"	Second, the way passwords are stored is a huge factor in their security. If passwords are stored on the server in plaintext, which is no change from what the user inputs, that is very insecure. However, that's why hashing exists. Hashing functions take an input of any length ("a" or 5 billion words) and it will always produce an output of the same length, making it impossible to reverse the output. Furthermore, modern hashing methods are slow to do, which can give a buffer against attackers.
 
 ","normal"
 "Back to the Numbers
 ","bold"
-"	Back to the 110 billion combinations. On a slightly above-average computer, it may take about a million years, give or take, so unless attackers have a lot of time, even 6-character passwords are safe with modern hashing methods, but there�s a catch: quantum computing.
+"	Back to the 110 billion combinations. On a slightly above-average computer, it may take about a million years, give or take, so unless attackers have a lot of time, even 6-character passwords are safe with modern hashing methods, but there's a catch: quantum computing.
 
 ","normal"
 "Quantum Computing
@@ -30,3 +30,4 @@
 "Want to see how fast your password might be cracked by a quantum computer? See for yourself:
 
 ","normal"
+
